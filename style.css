@@ -21,6 +21,13 @@ div {
   background-color: blue;
 }
 
+.green {
+  background-color: rgb(3, 184, 3);
+}
+.turquoise {
+  background-color: rgb(6, 150, 175);
+}
+
 .invisible {
   display: none;
 }
